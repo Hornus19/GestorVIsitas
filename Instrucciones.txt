@@ -1,0 +1,2 @@
+Para poder acceder al GA de Visitas, hay que entrar en la carpeta dist y dentro hay un archivo que pone GAVisitas.
+Se le da y va a pedir usuario y contraseña, si no disponeis de ella, llamar a la oficina(David) para que os la de.
